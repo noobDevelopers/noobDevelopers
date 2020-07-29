@@ -49,7 +49,7 @@ We still have a lot to bring to you:
 
 - Organizing competitions in various domains with prizes and goodies.
 
-- Availabilty of coupon based piad course links of Udemy which shall be free for first few hours.
+- Availabilty of coupon based paid course links of Udemy which shall be free for first few hours.
 
 - Complete guide of track to be followed for learning a particular domain, crafted under the guidance of experts and researches of members.
 
