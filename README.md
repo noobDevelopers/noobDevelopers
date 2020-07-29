@@ -36,7 +36,6 @@ Anyone interested in development is welcomed to be a part of this journey of bec
 We will have a special focus on the First Years' who need proper guidance and assistance in diving in and exploring the ocean of Developers.
 
 
-
 --- 
 
 ## FUTURE GOALS
@@ -70,6 +69,9 @@ We still have a lot to bring to you:
   - [NITISH SINGH](https://github.com/)
 
 
+----
+Copyright © by PACE
+# PACE- fast enough
 
 
 
