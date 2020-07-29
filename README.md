@@ -5,15 +5,16 @@
                                           
 ## INTRODUCTION
 
-Software development has never been an easy task, the more you do, the more you learn, and the more you learn, you understand that you know nothing..!!
+Software development has never been an easy task, the more you do, the more you learn, and the more you learn, you understand that you know nothing..\!!
 
 Everyone is a newbie..!!
 
 We present before you an opportunity to join such newbies; to work with them;
 to taste a wide variety of development domains....and dive into the one which you find interesting..!!
 
-PACE welcomes you to join <noobDevelopers>; a developers’ society to help its members by guiding them through various domains of Development.
-<noobDevelopers> is made by the newbies; for the newbies...!!
+PACE welcomes you to join **\<noobDevelopers>**, a developers’ society to help its members by guiding them through various domains of Development.  
+  
+**\<noobDevelopers>** is made by the newbies; for the newbies...!!
  
 ---
 
