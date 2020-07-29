@@ -1,4 +1,4 @@
-# \<noobDevelopers>
+# \<noobDEV>
 **"Software is like entropy. It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e. it always increases."
                                                                                                                    - Norman Ralph Augustine**   
                                           
@@ -12,9 +12,9 @@ Everyone is a newbie..!!
 We present before you an opportunity to join such newbies; to work with them;
 to taste a wide variety of development domains....and dive into the one which you find interesting..!!
 
-PACE welcomes you to join **\<noobDevelopers>**, a developers’ society to help its members by guiding them through various domains of Development.  
+PACE welcomes you to join **\<noobDEV>**, a developers’ society to help its members by guiding them through various domains of Development.  
   
-**\<noobDevelopers>** is made by the newbies; for the newbies...!!
+**\<noobDEV>** is made by the newbies; for the newbies...!!
  
 ---
 
@@ -70,7 +70,7 @@ We still have a lot to bring to you:
 
 
 ----
-Copyright © by PACE
+**Copyright © by PACE**
 # PACE- fast enough
 
 
