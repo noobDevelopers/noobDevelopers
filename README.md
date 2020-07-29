@@ -31,7 +31,7 @@ Members can freely choose any of the domain and select to contribute in any of t
 
 ## Who Can Join ?
 
-Anyone interested in development is welcomed to be a part of this journey of **becoming a \<NEWBIE> from a newbie**.
+Anyone interested in development is welcomed to be a part of this journey of becoming **\<NEWBIE> from a newbie**.
 We will have a special focus on the First Years' who need proper guidance and assistance in diving in and exploring the ocean of Developers.
 
 
@@ -57,6 +57,18 @@ We still have a lot to bring to you:
 
 
 *****
+
+## TEAM MEMBERS
+  - [GAURAV SINGH](https://github.com/orgs/noobDevelopers/people/GauravSingh9356)
+  - [ISHAN MISHRA](https://github.com/orgs/noobDevelopers/people/ishanExtreme)
+  - [APOORV MISHRA](https://github.com/orgs/noobDevelopers/people/APOORVMISHRA21)
+  - [KSHITIJ SINGH](https://github.com/orgs/noobDevelopers/people/Kshitij-10)
+  - [ABHIRUKTH CHAKRAVARTHY](https://github.com/orgs/noobDevelopers/people/abhirukth)
+  - [PRASHANT UPADHYAY](https://github.com/)
+  - [RITESH BHASKAR](https://github.com/)
+  - [NITISH SINGH](https://github.com/)
+
+
 
 
 
